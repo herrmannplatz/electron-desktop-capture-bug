@@ -1,2 +1,2 @@
-# electron-desktop-caputre-bug
+# electron-desktop-capture-bug
 example to verify electrons desktop capture bug 
